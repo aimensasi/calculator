@@ -1,5 +1,11 @@
 # seek-and-you-shall-find
 
+Install bun (Optional):
+
+```bash
+curl -fsSL https://bun.sh/install | bash
+```
+
 To install dependencies:
 
 ```bash
@@ -9,7 +15,7 @@ bun install
 To run:
 
 ```bash
-bun run index.ts
+bun run dev
 ```
 
 This project was created using `bun init` in bun v1.1.12. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
