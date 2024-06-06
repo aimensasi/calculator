@@ -7,7 +7,7 @@ const recruitmentBrief: Job = {
 	title: 'Senior Software Engineer',
 	classification: 'Engineering',
 	location: 'Sydney',
-	annualSalary: 100000,
+	annualSalary: 100_000,
 	description: 'Responsible for developing high-quality software solutions.'
 };
 
