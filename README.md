@@ -1,5 +1,11 @@
 # seek-and-you-shall-find
 
+Install bun (Optional):
+
+```bash
+curl -fsSL https://bun.sh/install | bash
+```
+
 To install dependencies:
 
 ```bash
